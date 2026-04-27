@@ -1,0 +1,23 @@
+# Environment
+.env
+
+# Vendor
+/vendor/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Exports
+exports/
+*.txt
+*.csv
+*.json
+*.xml
